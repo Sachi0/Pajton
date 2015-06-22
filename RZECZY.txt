@@ -2,3 +2,4 @@ git init - tworzenie repo
 git status - sprawdzanie statusu repo
 git add -i - interaktywne dodawanie plików
 git commit -m "komentarz" - commitowanie z komentarzem
+gitk - podgląd repo
